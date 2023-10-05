@@ -1,4 +1,4 @@
-# CheepTix
+# CheepTIX.com
 CS 250 Software Design Specification repository
 
 Group 11 <br />   
