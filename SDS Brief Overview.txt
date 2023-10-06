@@ -1,0 +1,2 @@
+﻿Brief Overview
+The user shall be able to purchase movie tickets through CheepTix.com. CheepTix will give the user the option to select a theatre based on their location. Ticket selection choices will be seating, movie time, movie type, and whether they want a physical or digital ticket. The user will be able to create an account to gain benefits such as: rating movies, managing their tickets, and discounted tickets through loyalty rewards and veteran/student/senior status. CheepTix will contain a database of movie times and ratings.
